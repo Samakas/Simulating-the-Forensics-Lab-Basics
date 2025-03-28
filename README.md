@@ -33,9 +33,9 @@
     <ul>Click Environment Variables → Edit Path.</ul>
     <ul>Add the Sleuth Kit bin folder path and save changes.</ul>
 <ol>Verify installation by running:</ol>
-```
-fls -version
-```
+
+<ol>fls -version</ol>
+
 
 ## Step 5: Create & Configure a Virtual Hard Disk (VHD) in Windows
 

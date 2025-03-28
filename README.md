@@ -9,7 +9,7 @@
 ## Step 1: Install VirtualBox
 <ul> Download VirtualBox: 
 
-[Link Text](https://virtualbox.en.softonic.com/) 
+[virtualbox](https://virtualbox.en.softonic.com/) 
 
 </ul>
 
@@ -21,9 +21,9 @@
 ## Step 2: Install Kali Linux on VirtualBox
 <ul>Download Kali Linux VM: 
 
-[Link Text](https://virtualbox.en.softonic.com/) 
+[kali Linux](https://www.kali.org/get-kali/#kali-virtual-machines)
 
-</ul>
+ </ul>
 
 ### Installation Steps:
 <ol>Download the Windows ZIP package from the official website.</ol>

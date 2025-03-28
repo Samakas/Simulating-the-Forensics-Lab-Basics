@@ -7,7 +7,11 @@
 
 ## Implementation Steps:
 ## Step 1: Install VirtualBox
-<ul> Download VirtualBox:<a>https://virtualbox.en.softonic.com/</a></ul>
+<ul> Download VirtualBox: 
+
+[Link Text](https://virtualbox.en.softonic.com/) 
+
+</ul>
 
 ### Installation Steps::
 <ol>Download the Windows hosts .exe file from the official VirtualBox website.</ol>
@@ -15,7 +19,11 @@
 <ol>Once installed, launch VirtualBox to verify the installation.</ol>
 
 ## Step 2: Install Kali Linux on VirtualBox
-<ul>Download Kali Linux VM: <a>https://www.kali.org/get-kali/#kali-virtual-machines</a>
+<ul>Download Kali Linux VM: 
+
+[Link Text](https://virtualbox.en.softonic.com/) 
+
+</ul>
 
 ### Installation Steps:
 <ol>Download the Windows ZIP package from the official website.</ol>
